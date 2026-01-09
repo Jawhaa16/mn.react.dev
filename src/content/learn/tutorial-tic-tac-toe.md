@@ -1,5 +1,5 @@
 ---
-Гарчиг: “Хичээл: Tic-Tac-Toe (X, O тоглоом)”
+Title: “Хичээл: Tic-Tac-Toe (X, O тоглоом)”
 ---
 
 <Intro>
