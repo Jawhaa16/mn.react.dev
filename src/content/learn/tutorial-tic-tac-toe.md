@@ -1,5 +1,5 @@
 ---
-Title: “Хичээл: Tic-Tac-Toe (X, O тоглоом)”
+title: “Хичээл: Tic-Tac-Toe (X, O тоглоом)”
 ---
 
 <Intro>
